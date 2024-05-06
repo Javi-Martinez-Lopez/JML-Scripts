@@ -1,4 +1,4 @@
-# Scripts by Javi Martinez-Lopez
+# Scripts and repositories by Javi Martinez-Lopez
 
 
 
